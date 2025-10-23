@@ -1,0 +1,23 @@
+{
+  "l": "Language",
+  "startTitle": "Personalize Your Experience",
+  "startDesc": "Choose your preferred theme and language to get started with a comfortable, tailored experience that suits your style.",
+  "theme": "Theme",
+  "letsStart": "Let's Start",
+  "email": "Email",
+  "pass": "Password",
+  "login": "Login",
+  "forgotPass": "Forgot Password?",
+  "dontHaveAccount": "Don’t Have Account ? ",
+  "createAcc": "Create Account",
+  "name": "Name",
+  "alreadyHaveAcc": "Already Have Account ?",
+  "rePass": "Re Password",
+  "onboardingTitle1":"Find Events That Inspire You",
+  "onboardingSubtitle1":"Dive into a world of events crafted to fit your unique interests. Whether you’re into live music, art workshops, professional networking, or simply discovering new experiences, we have something for everyone.",
+  "onboardingTitle2":"Effortless Event Planning",
+  "onboardingSubtitle2":"Take the hassle out of organizing events with our all-in-one planning tools. From setting up invites and managing RSVPs to scheduling reminders and coordinating details, we’ve got you covered.",
+  "onboardingTitle3":"Connect with Friends & Share Moments",
+  "onboardingSubtitle3":"Make every event memorable by sharing the experience with others. Capture and share the excitement with your network so you can relive the highlights and cherish the memories.",
+  "loginWithGoogle":"Login with Google"
+}
